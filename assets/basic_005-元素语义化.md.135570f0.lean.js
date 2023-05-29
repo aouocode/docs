@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.98960eec.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"basic/005-元素语义化.md","filePath":"basic/005-元素语义化.md","lastUpdated":1685368033000}'),s={name:"basic/005-元素语义化.md"};function c(r,_,o,n,i,d){return t(),a("div")}const f=e(s,[["render",c]]);export{m as __pageData,f as default};
